@@ -14,13 +14,10 @@
  - [Activity Diagram](#activity)
 
 ### Overview <a class = 'anchor' id = 'overview'></a>
-Great Day Notebook is an e-commerce business co-founded by Ngo Quang Truong and Nguyen Che Phong. The project aims to provide young people with products and notebooks featuring note-taking, to-do lists, and daily/monthly planning functions.
+Great Day Notebook is an e-commerce business co-founded by Ngo Quang Truong and Nguyen Che Phong. The project aims to provide young people with products and notebooks featuring note-taking, to-do lists, and daily/monthly planning functions. To expand its business across various digital platforms, Great Day Notebook has decided to build a website using WordPress. The website will be equipped with all the necessary features for an e-commerce platform.
 
 - You can visit our Website here: [greatdaynotes.com]()
 - You can visit our Store here: [Shopee](https://shopee.vn/greatdaynotebook)
-                                  
-
-To expand its business across various digital platforms, Great Day Notebook has decided to build a website using WordPress. The website will be equipped with all the necessary features for an e-commerce platform.
 
 Great Day Notebook has designed a database system to facilitate data storage and retrieval in the future. The team has modeled the database using dbdiagram.io, incorporating the most important entities for an e-commerce website.
 
